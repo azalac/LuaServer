@@ -20,7 +20,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class Database implements Closeable, AutoCloseable {
 
